@@ -1,2 +1,2 @@
 practice git
-version1.1
+version1.2
